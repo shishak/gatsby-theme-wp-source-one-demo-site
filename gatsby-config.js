@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: `@progital/gatsby-theme-wp-source-one`,
       options: {
-        wordPressUrl: `http://18.204.169.216/`,
+        wordPressUrl: `http://3.121.214.216.xip.io/`,
         processPostTypes: [`Page`, `Post`],
         useWebp: true,
       },
