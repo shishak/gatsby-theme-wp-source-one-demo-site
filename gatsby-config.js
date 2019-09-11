@@ -1,7 +1,7 @@
 module.exports = {
   plugins: [
     {
-      resolve: `@shishak/gatsby-theme-wp-source-one`,
+      resolve: `@progital/gatsby-theme-wp-source-one`,
       options: {
         wordPressUrl: `http://api.texty.xyz/`,
         processPostTypes: [`Page`, `Post`],
